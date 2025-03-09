@@ -1,4 +1,4 @@
-# "Simplify Rentals, Amplify Living."
+# "Amar Cash"
 
 Amar Cash is a seamless and secure digital payment platform designed to revolutionize the way you handle money transactions. 
 
