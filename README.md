@@ -32,42 +32,50 @@ Amar Cash is a seamless and secure digital payment platform designed to revoluti
   </ul>
 </div>
 
-## Dashboard
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/dashboard1.jpg?raw=true)
+## Welcome
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20031643.png)
 
-## Signup/Signin
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/signup.jpg?raw=true)
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/d58608f1ac912ae8461d8dd2ddf5fe84d011cdac/images/img/signin.jpg)
+## Login Type
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20031703.png)
 
-## Services
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/services.jpg?raw=true)
 
-## Car Section
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/car.jpg?raw=true)
+## Login Account
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20031736.png)
 
-## Car Preview
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/previewcar.jpg?raw=true)
+## Signup Account
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20031949.png)
 
-## Invoice
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/rentinvoice.jpg?raw=true)
+## User Dashboard
+- Account number: 01709907002
+- Account Balance : 0 tk
+  
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032110.png)
 
-## Home Section
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/home.jpg?raw=true)
+## Agent Dashboard
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032216.png)
 
-## Laptop Section
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/laptop.jpg?raw=true)
+## Agent Dashboard -> Cash In 
+- Cash in: 01709907002
+- Taka: 500
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032256.png)
 
-## Owner Dashboard
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/ownerDashboard.jpg?raw=true)
+## User Dashboard 
+- After Cash in from Agent.
+- Amount: 500
+- Account Number: 01709907002
+- Account Balance: 500
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032422.png)
 
 ## Admin Dashboard
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard1.jpg?raw=true)
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032503.png)
 
-## Admin Dashboard - update/delete user
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard2.jpg?raw=true)
+## Admin Dashboard -> Add User
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032546.png)
 
-## Admin Dashboard - update/delete product
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/admindashboard3.jpg?raw=true)
+## Admin Dashboard -> Add Agent
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032618.png)
 
-## About Us
-![image alt](https://github.com/muzahidulsaki/Rental_Management_system/blob/main/images/img/about%20us.jpg?raw=true)
+## Admin Dashboard -> Check Profit
+![image alt](https://github.com/muzahidulsaki/Amar_Cash/blob/826a7d6c3ad8088cf8c4bdb4e5a6167486b41775/images/Screenshot%202025-03-10%20032639.png)
+
+
